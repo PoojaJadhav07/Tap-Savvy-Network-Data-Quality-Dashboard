@@ -3,6 +3,9 @@ Built a Power BI Data Quality Dashboard to analyze profile completeness, missing
 
 # Tap Savvy Network — Data Quality Dashboard
 
+![Tap Savvy Network Dashboard](https://github.com/PoojaJadhav07/Tap-Savvy-Network-Data-Quality-Dashboard/blob/main/Tap%20savvy%20network.PNG?raw=true)
+
+
 ##  Project Overview
 The **Tap Savvy Network Data Quality Dashboard** is a Power BI-based analytics solution designed to evaluate and monitor the completeness and quality of user profile data for Tap Savvy Network.  
 It helps to quickly identify missing information across customer profiles (e.g., missing profile pictures, incomplete company details, absent contact info), as well as track active vs inactive profiles by company — enabling data-driven decisions to improve data quality and CRM effectiveness.
